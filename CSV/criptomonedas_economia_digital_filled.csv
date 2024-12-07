@@ -1,7 +1,0 @@
-Nombre Criptomoneda,Símbolo,Precio Actual (USD),Capitalización de Mercado (USD),Volumen 24h (USD),Tendencia Últimos 7 Días (%),Tecnología Subyacente,Uso en Economía Digital
-Bitcoin,BTC,43000,830000000000,25000000000,3.5,Blockchain (PoW),"Pagos globales, reserva de valor"
-Ethereum,ETH,3000,360000000000,15000000000,2.8,Blockchain (PoS),"Contratos inteligentes, DeFi, NFT"
-Tether,USDT,1,82000000000,50000000000,0.0,Stablecoin (Blockchain),Intermediación en transacciones digitales
-Binance Coin,BNB,400,66000000000,2000000000,1.2,Blockchain (BSC),"Tarifas reducidas en Binance, servicios financieros"
-Cardano,ADA,1.5,50000000000,1200000000,-0.8,Blockchain (PoS),Desarrollo de DApps y sostenibilidad
-Solana,SOL,100,32000000000,3000000000,4.5,Blockchain (PoS),"DApps de alta velocidad, NFT"
