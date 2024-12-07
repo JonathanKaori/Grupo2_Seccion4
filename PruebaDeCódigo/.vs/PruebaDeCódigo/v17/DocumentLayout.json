@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Grupo2_Seccion4\\PruebaDeC\u00F3digo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A343042F-99F2-4DD1-8EB8-8535C3C32581}|PruebaDeC\u00F3digo.pyproj|C:\\Users\\PC\\Desktop\\Grupo2_Seccion4\\PruebaDeC\u00F3digo\\PruebaDeC\u00F3digo.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A343042F-99F2-4DD1-8EB8-8535C3C32581}|PruebaDeC\u00F3digo.pyproj|solutionrelative:PruebaDeC\u00F3digo.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PruebaDeC\u00F3digo.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Grupo2_Seccion4\\PruebaDeC\u00F3digo\\PruebaDeC\u00F3digo.py",
+              "RelativeDocumentMoniker": "PruebaDeC\u00F3digo.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Grupo2_Seccion4\\PruebaDeC\u00F3digo\\PruebaDeC\u00F3digo.py",
+              "RelativeToolTip": "PruebaDeC\u00F3digo.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-07T15:03:45.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
