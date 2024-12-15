@@ -1,6 +1,7 @@
-# Nombre del Proyecto
+# Impacto en el consumidor Salvadoreño luego de la adopción del Bitcoin
 
 Breve descripción del proyecto.
+![Screenshot (958)](https://github.com/user-attachments/assets/328f5a89-83de-44b6-9d1f-65de02dc106c)
 
 ## Tabla de contenidos
 
@@ -13,19 +14,25 @@ Breve descripción del proyecto.
 7. [Agradecimientos](#Agradecimientos)
 
 
-* Nombre del proyecto
+* Nombre del proyecto: Impacto en el consumidor Salvadoreño luego de la adopción del Bitcoin
 
-* Breve descripción del proyecto -> Alguna imagen o gif que muestre el proyecto
+* Breve descripción del proyecto:
+  ![Screenshot (959)](https://github.com/user-attachments/assets/45988237-d451-4f87-adba-bae02ba32570)
 
-* Arquitectura del proyecto + imagen
+* Arquitectura del proyecto + imagen:
+  ![WhatsApp Image 2024-12-14 at 9 16 02 PM](https://github.com/user-attachments/assets/530f841c-3bbd-4f5f-819e-5ad5bab4c4f8)
+
 
 * Proceso de desarrollo:
 
--Fuente del dataset
+-Fuente del dataset:
 
--Limpieza de datos (img que lo valide)
 
--Manejo excepciones/control errores
+-Limpieza de datos (img que lo valide):
+
+
+-Manejo excepciones/control errores:
+
 
 -Estadísticos (Valores, gráficos, …)
 
