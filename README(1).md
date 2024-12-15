@@ -51,18 +51,10 @@ Tendencia de indice de precios al consumidor
 
 * Funcionalidades extra:
 
-Ejem 1: Integración del proyecto en una pág web
-- Tecnología/Herramientas usadas …
+Integración del proyecto en una pág web
+- Tecnología/Herramientas usadas:
+Lenguaje de javascrit para evitar desbordamiento de graficas
+html y css
 - Arquitectura (img)
 
-Ejem 3: Integración del proyecto en un canal WhatsApp, Discord, Telegram, Correo, …
-- Tecnología/Herramientas usadas …
-- Arquitectura (img)
-
-Ejem 4: Desarrollo de interfaz gráfica de usuario
-- Tecnología/Herramientas usadas …
-- Arquitectura (img)
-
-Ejem …: …
-- Tecnología/Herramientas usadas …
 
