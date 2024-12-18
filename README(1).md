@@ -42,6 +42,14 @@ Tendencia de precio del bitcoin
 ![Sin título](https://github.com/user-attachments/assets/28fac0e1-02d3-48bd-b95f-764847f6f160)
 Tendencia del precio del dolar
 ![Sin título-1](https://github.com/user-attachments/assets/5c9172af-2c95-4e8d-ab3d-7e3835afd060)
+Tendencia indice general y subgrupos principales
+![Sin título](https://github.com/user-attachments/assets/4edaff75-3a49-433c-9ea6-222551cc7398)
+Tendencia de transporte y servicios
+![1](https://github.com/user-attachments/assets/f1448f8c-776f-4390-9d64-6311dbf3642a)
+Tendencia de educacion y cultura
+![2](https://github.com/user-attachments/assets/33664028-b2b7-46a9-af0c-42aa6a17369e)
+Tendencia de otros bienes y servicios
+![3](https://github.com/user-attachments/assets/e25eebdc-dc76-43e5-b1b8-f5e6790ea898)
 Tendencia de immportaciones e importaciones
 ![Sin título](https://github.com/user-attachments/assets/ec59f7b0-0810-4082-a306-f9068658badd)
 Tendencia de turismo internacional
