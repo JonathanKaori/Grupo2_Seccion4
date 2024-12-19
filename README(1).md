@@ -39,23 +39,32 @@ El proyecto se centra en un análisis de datos, que luego de ser filtrados son i
 
 -Estadísticos (Valores, gráficos, …):
 Tendencia de precio del bitcoin
-![Sin título](https://github.com/user-attachments/assets/28fac0e1-02d3-48bd-b95f-764847f6f160)
+![imagen](https://github.com/user-attachments/assets/55025309-6e15-4622-905f-61b4186728c4)
+
 Tendencia del precio del dolar
-![Sin título-1](https://github.com/user-attachments/assets/5c9172af-2c95-4e8d-ab3d-7e3835afd060)
+![imagen](https://github.com/user-attachments/assets/c52bcdd8-0573-4a23-9db2-13cda7ffb14a)
+
 Tendencia indice general y subgrupos principales
-![Sin título](https://github.com/user-attachments/assets/4edaff75-3a49-433c-9ea6-222551cc7398)
+![imagen](https://github.com/user-attachments/assets/891b14e6-6daf-4ed0-953b-6d009e7cc4d4)
+
 Tendencia de transporte y servicios
 ![1](https://github.com/user-attachments/assets/f1448f8c-776f-4390-9d64-6311dbf3642a)
+
 Tendencia de educacion y cultura
-![2](https://github.com/user-attachments/assets/33664028-b2b7-46a9-af0c-42aa6a17369e)
+![imagen](https://github.com/user-attachments/assets/157ed536-b3f7-4ff6-b82d-9834d7e50d8c)
+
 Tendencia de otros bienes y servicios
-![3](https://github.com/user-attachments/assets/e25eebdc-dc76-43e5-b1b8-f5e6790ea898)
+![imagen](https://github.com/user-attachments/assets/8ffcfa8d-57c0-4406-b028-df2f336612ca)
+
 Tendencia de immportaciones e importaciones
 ![Sin título](https://github.com/user-attachments/assets/ec59f7b0-0810-4082-a306-f9068658badd)
+
 Tendencia de turismo internacional
 ![Sin título-1](https://github.com/user-attachments/assets/5431e2f5-137c-498b-99ce-717dc4cced74)
+
 Tendencia de indice de precios al consumidor
-![Sin título](https://github.com/user-attachments/assets/00e3eef3-6364-4ea2-ae61-dcf6c8b94149)
+![imagen](https://github.com/user-attachments/assets/fae9edd7-98e3-4c8e-ba4a-ec5d2a964b1f)
+
 
 * Funcionalidades extra:
 
@@ -64,5 +73,7 @@ Integración del proyecto en una pág web
 Lenguaje de javascrit para evitar desbordamiento de graficas
 html y css
 - Arquitectura (img)
+![Sin título](https://github.com/user-attachments/assets/3697988e-c1f3-4108-b3aa-fab7fa1ecbd0)
+
 
 
