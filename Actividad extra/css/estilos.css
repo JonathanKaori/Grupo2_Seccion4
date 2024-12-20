@@ -315,11 +315,14 @@ ul.topnav{
 }
 
 .descripcion-ipc {
-    text-align: center;
-    font-size: 18px;
-    color: black; 
-    margin-bottom: 20px;
-    line-height: 1.5;
+	width: 70%;
+    max-width: none; 
+    margin: 40px auto 60px auto; 
+    padding: 0 10px; 
+    text-align: center; 
+    font-size: 25px; 
+    color: #444; 
+    line-height: 1.6; 
 }
 
 .contenedor-6{
