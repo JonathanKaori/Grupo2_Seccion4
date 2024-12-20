@@ -374,6 +374,17 @@ ul.topnav{
     border-radius: 80px;
 }
 
+.descripcion-precio {
+	width: 70%;
+    max-width: none; 
+    margin: 40px auto 60px auto; 
+    padding: 0 10px; 
+    text-align: center; 
+    font-size: 25px; 
+    color: #444; 
+    line-height: 1.6; 
+}
+
 /*footer*/
 
 footer{
